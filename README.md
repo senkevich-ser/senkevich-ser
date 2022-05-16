@@ -1,7 +1,7 @@
 ### Всем привет, меня зовут Сергей 👋
 
 
-[![codewars](https://www.codewars.com/users/senkevich-ser/badges/small)](https://www.codewars.com/users/senkevich-ser)<!--
+[![codewars](https://www.codewars.com/users/senkevich-ser/badges/small)](https://www.codewars.com/users/senkevich-ser)
 
 
 
