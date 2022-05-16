@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет, меня зовут Сергей 👋
 
 <!--
 **senkevich-ser/senkevich-ser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
