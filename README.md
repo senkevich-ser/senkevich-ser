@@ -10,10 +10,8 @@
   <li>🚀 Стремлюсь к работе с проектами, которые улучшают нашу жизнь</li>
   <li>👨 Мечтаю работать с опытными коллегами</li>
   <li>🏄 Хочу осваивать новые фреймворки и технологии</li>
-  <li>✍ I’m currently working on</li>
+  <li>✍ Хочу писать чистый читабельный код</li>
 </ul>
-**senkevich-ser/senkevich-ser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
