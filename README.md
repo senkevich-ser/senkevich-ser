@@ -6,7 +6,7 @@
 [![codewars](https://www.codewars.com/users/senkevich-ser/badges/small)](https://www.codewars.com/users/senkevich-ser)
 
 <ul>
-  <li>🔭 I’m currently working on</li>
+  <li>🌱 I’m currently working on</li>
 </ul>
 **senkevich-ser/senkevich-ser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
