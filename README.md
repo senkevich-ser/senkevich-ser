@@ -14,7 +14,7 @@
 </ul>
 
 <h2>Мои контакты 📟</h2>
-<li>LinkedIn:<a>www.linkedin.com/in/ssiarhey</a></li>
+***LinkedIn:*** www.linkedin.com/in/ssiarhey
  
  
 <h2>Мой стек ⚒</h2>
