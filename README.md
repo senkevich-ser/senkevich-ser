@@ -16,7 +16,6 @@
 <h2>Мои контакты 📟</h2>
 
 ***LinkedIn:***    www.linkedin.com/in/ssiarhey
-
 ***e-mail:***    ssenkevich@mail.ru
  
  
